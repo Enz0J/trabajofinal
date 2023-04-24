@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../productos imagenes"
+		},
+		{
+			"path": "../static"
+		}
+	],
+	"settings": {}
+}
